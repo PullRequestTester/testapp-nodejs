@@ -1,10 +1,5 @@
 ### Readme
 
-- te BBB KKK st
 
-- Testing GitHub webhook
-
-- TESTING multiple content-types
-
-- TESTING number 2
+-New content that will make mergeability as false
 
